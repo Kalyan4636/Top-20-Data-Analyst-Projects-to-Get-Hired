@@ -2,7 +2,7 @@
 
 > 20 portfolio projects, ordered from beginner to advanced, with the tools to use, a dataset for each, and what recruiters look for.
 
-**Curated by [Aditya Kalyan](https://www.linkedin.com/in/your-profile) | Data Analytics Mentor**
+**Curated by [Aditya Kalyan]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/adityaakalyan/)) | Data Analytics Mentor**
 
 ![Projects](https://img.shields.io/badge/projects-20-2563EB)
 ![Level](https://img.shields.io/badge/level-beginner%20to%20advanced-F59E0B)
